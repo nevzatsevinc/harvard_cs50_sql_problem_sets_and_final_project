@@ -15,7 +15,7 @@ This is Harvard University's CS50 course offering a deep dive into databases usi
 - [Problem Set 6](./problem_set_6) - Scaling
 
 ## Final Project
-- [?](./final_project)
+- [SQL script for creating a healthcare database](./project)
 
 ## Contributing
 This repository is for educational purposes, no contributions are required.
